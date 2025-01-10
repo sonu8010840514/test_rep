@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<manifest identifier="vPAM6LPBdTl7GcBnzy6Di4i968yr71cHPf6w0NeR" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Performance Management</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Performance Management</title>
+        <adlcp:datafromlms>eyJjcHYiOiJQZjZ3ME5lUiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/indexAPI.html" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/preloadIntegrity.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/driverOptions.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/AICCComm.html" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/auto-scripts/CourseExit.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/blank.html" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/goodbye.html" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/scormdriver.js" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormcontent/index.html" />
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/icomoon.css"/>
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/main.bundle.css"/>
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/OpenSans-Italic.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/OpenSans-Bold.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/OpenSans-Regular.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/OpenSans-Light.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/G3Ab_m4W4nfeYc96_small.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/k3sIPCtOm8uTNwi4_1f2SU_NZiB65JVbv.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/W56spbpPhkOWvrco_transcoded-LXUGfYrfmaUUChiz-speech_20220629193256592.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/V45hWbAK5ayFix2Q_transcoded-O5tAqaV-CzJFl86U-Performance%20Management-00001.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/gW3dC-z_St1STl2U_transcoded-O5tAqaV-CzJFl86U-Performance%20Management.mp4" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/COYqBKnAXkvfP1Hl_wVZULQ0njhsd3UoT.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Ue0F1TqD-wOgoy-O_transcoded-cfMKScVIGPjYJ6fY-Performance_%20Module%202_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/0up_7RDFl2GGibiy_YOrnaTcqsWIjLZnj.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/xYVW0GPpj9PgPrEO_transcoded-eH9cYWpco5I-ENOC-Performance_%20Module%202_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/PtzbYGx-K2zJyhhw_transcoded--G8gdvoeEhSTewgL-Performance_%20Module%202_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/S3XpRW_erZHVCEOC_transcoded-pca99-ZkENHvyzpE-Module%202-00001.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/oJEmypa44GRL5Lee_transcoded-pca99-ZkENHvyzpE-Module%202.mp4" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/kuIA06GcaIE6-PcH_transcoded-YIMgUzMePzArHoi--Performance_%20Module%202_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/mh3JqMd3XaXh7Fwy_transcoded-cwHTuI8q61pra2gj-Performance_%20Module%202_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Bvhdtspk6o_jsiUV_VE2EV-eNMIOldQxe.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Ejtdk7m3KDAkTOBI_transcoded-yTNUe-oVXGAk-32C-Performance_%20Module%203_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/9veuTdZ0jbBof41M_GE-8PaW0T9jfvHTM.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/z4uXpAWlbyFPA8lZ_951eyzrlJaaQQ8r0.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/57IdLHBBoTcz6iUY_hZKftZSAklrRViWH.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/OafMrqKebf6hGDdD_transcoded-WgIrZAdmxMMbb2V_-Performance_%20Module%203_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/01-ac_je8uwdVCi7_transcoded-zVmsKkXzpHVTXz4H-Performance_%20Module%203_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/mkk7AfAB6DAaKQC2_lTdDxi3cFoNnx4aH.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/hlqe86W6IYNeNHeN_NNfZBYU5KhxWXbu_.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/earVuv-EGxVaa81O_4yvWHZ0LQEDl0Y8D.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/BBx8v--WEaj5lB6L_transcoded-PIqiuynUYd4Uwnq9-Performance_%20Module%203_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/XwB3yaOhSjMoBarM_75HHB1qHVz1TSOSa.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/pbZEVPPUeOAtDLWa_transcoded-PZlcwLlWGc9jEXf8-Performance_%20Module%204_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/OqTrNsJlPxtyVkmk_transcoded-ODqXKfyejUv8RYDU-Performance_%20Module%204_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/yoqp528oTjJTmf35_6RPZhMaiyo7W_JUB.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/l1qG5oCthzO8BiCW_transcoded-I6RXj959EvQ5E_Qr-Performance_%20Module%204_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/un5m-QODp72Uf5oh_jaQtoEzY9ITUukGh.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/P7aAlmAB_oWO5Tn1_transcoded-sDvjexjzho8S_d19-Performance_%20Module%204_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/tiD_bztPjxcKighS_Xn5iaBUkcr9x-svJ.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/zX42xko12zLGjQ4S_transcoded-p9yMo-NtYTZlWYWR-Performance_%20Module%204_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/XrPvfSLIP2b9M0_i_transcoded--5K4u8QxaLFmhFup-Performance_%20Module%204_%20Slide%206.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/kT1Q-SoW_3xlcPQa_UjHktYc1lqGcRk26.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/O6jUjXGLzcEMb8et_transcoded-RD13VIIHzs-Ddviw-Performance_%20Module%204_%20Slide%207.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Z_nLB9aVmdVKQcMH_transcoded-YmG6NZlQZi8AM_hv-Performance_%20Module%204_%20Slide%208.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Wwry9U8Pqw3FXYhG_transcoded-gv3ztWNBUGumvYoM-Module%204-00001.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/SsB06XElXU6GDlPe_transcoded-gv3ztWNBUGumvYoM-Module%204.mp4" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/611DA4ctbteAHJjD_rvRWp9hbSM02NjVb.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/IUp2dDF-T0KfYILj_transcoded-YBpTZnqN0lJahzhm-Performance_%20Module%205_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/AQjvBphg2HFkfo7y_transcoded-Qb-YGUCf7euaN_2c-Performance_%20Module%205_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/d1BbfQ-tXxYrGADH_transcoded-CCkPfG5c15ryAOqF-Module%205-00001.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/k_A-da5suruov67R_transcoded-CCkPfG5c15ryAOqF-Module%205.mp4" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/YRYEouN4A7ZgoSNg_transcoded-li2KlAJfb6GFW8qv-Performance_%20Module%205_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/chPVTNMWQ90v5ew7_transcoded-AHfGSEYir2lzmBqt-Performance_%20Module%205_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/7kqEbxJtS_R6dyLv_THvqITSD8kYdHBtj.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/TUtaBH1UlMGW7wbD_NjSRyNh5wgKikyIt.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/14SpIEpJXsrcFFAe_x5epZP3DLsJGyqqU.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/XkS979Hfs3zstPyj_transcoded-9bfXW5yMjghMxB5T-Performance_%20Module%205_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/syBuJGr9Zw8Owrnx_mountains.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/si9v8924zIJplsiT_BARAhry1TgEuWLZo.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/5Wncyeinbtz15Ycv_transcoded-9OcWYATcuaWn3mYm-Performance_%20Module%206_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/SgU02UlH5_8-IXKA_0_VlD0pa9b-bo-5H.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/QKghRosgjo-BdeWu_transcoded-0FTab5dKYAVp5gya-Performance_%20Module%206_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/K3OWONBKIuFf32SQ_transcoded-nKjKO_oqHKZgdSQp-Performance_%20Module%206_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/FfTTG8W1FKp6Fm0Q_c_d8I2sY3yn0Y23o.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/JlOYds8q9uwbfBtc_transcoded-OwXaq3hy93ycbBFN-Performance_%20Module%206_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/RxM-1JKr0ywe8wjJ_Iuhj4klzLKp0_7lx.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/ccvvIDf3H47Whe83_transcoded-hoJUfRHSBXCfqzQH-Performance_%20Module%206_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/k9oDUvaUBpgbIL90_transcoded-9m5e_tHkdiqS-sZx-Performance_%20Module%207_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/69X6hMYhevRuKQI5_transcoded-Hb83fQ86x8Dmn7Nv-Performance_%20Module%207_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/484lIoOTdUa8PiLW_transcoded-jTnqtWRFlSHV--ci-Performance_%20Module%207_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/9CmyTLxO61JTuTIb__DJDk1By9WYKHnjR.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/l2nO8CNEKcpPqsEM_0Yg-1KcbOqEJ0Q8C.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/f_REAJNtzlQidMiV_transcoded-tI4DNPe_scOvqBcO-Performance_%20Module%208_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/aMMtwoM-YDTh5Xou_wD87qFfkRiJbfZqR.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/bNvpFud0gff8idIu_transcoded-f347d2NjfPha88UM-Performance_%20Module%208_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/g_Fw5S3PBDKSKlqp_transcoded-QXGsLotoQhutWgeM-Performance_%20Module%208_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/w7IK0WEZ04i0G037_tPA0xDySqaqWpr2R.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/SxMLbEa6EOvf1qqu_transcoded-yPXUMW7Fe_gEmfl5-Performance_%20Module%208_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/eA9MBFHt3cvymZyW_W9JT2wtqL3ooXiTY.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Izza8DvbtjjcGn4x_transcoded-fMMymJ-G0grjWqtr-Performance_%20Module%208_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/L-cB_r4Zm0sgSExI_1Q3SY5Pesj--irxx.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/7W3RmZaH1iTEr7zv_transcoded-lv9AWjDoetoBYX3w-Performance_%20Module%209_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/Ag4gu5VxvDnhpptv_transcoded-ceuhWedLgYpNPZ5s-Performance_%20Module%209_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/msGLLVBdOjfm54-x_BUXZPEQ_vQTicfAd.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/ti2NV5jF-lmxyeGT_transcoded-Sj8qtDNB4PUP9Vkm-Performance_%20Module%209_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/yzuHsCVduz5PTcB0_transcoded-erz97yT1DApQFCV3-Performance_%20Module%209_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/CCvuoTNHRt_tNAqx_piqH6ExYk9bEcQh3.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/DRd1GFrdoRnoGwgt_C2liNTnUaCNwYmFK.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/f2Uew8KPsxyLqfMO_bvSbxCEm0h2FCv2d.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/n0-oiaCK-mC64eSJ_transcoded-n6qttfRogAi_YsBP-Performance_%20Module%209_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/ijNnTcKmJaA85182_jF6dVLbhf1sFSUXm.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/XPWoHx-LC2Y-aeMO_transcoded-URWeqQ_NppGJf1kp-Performance_%20Module%2010_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/wfY2q2n5sUyGFTar_transcoded-llhhJZ9vXtOOmoaZ-Performance_%20Module%2010_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/CfEmhoqZlaC7JatM_Dj7OgQ44bPn11eFw.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/D1p9X3dTwRZAdef__oAOcacAQMcj_i1ED.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/YzTzIVLHERt8Wnub_transcoded-Dv6pWh_brPYR1Jta-Performance_%20Module%2010_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/V9Cp3nmrnQiRjAhI_Z3ypZztoOQ3xmEpL.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/VziN-NBHJy8SSK_k_transcoded-yOGGAHG0SOKU4G41-Performance_%20Module%2010_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/SyR54llcq3qd8-qj_transcoded-N6Icfwpd3MeDyBtD-Module%2010-00001.png" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/0b5xvBlFRHmlG1yY_transcoded-N6Icfwpd3MeDyBtD-Module%2010.mp4" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/P-qZ-UU1rfhReRst_transcoded-VFKP7jK8PVk_5qu6-Performance_%20Module%2010_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/UtOi8PPwdXUbpkUw_LUM8wd_uz2aFu9HH.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/w-kJfFxyq7kjRCCH_transcoded-AoVtXaojNW792SaO-Performance_%20Module%2011_%20Slide%201.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/vzGrtvJ-qwf81YtD_transcoded-JuMLHqwf3_9xVMEq-Performance_%20Module%2011_%20Slide%202.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/i5h72TZpMxlXC5ai_transcoded-IJsWQM7uoTqniP81-Performance_%20Module%2011_%20Slide%203.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/7_VZW_pNsxenODDG_l9ejzc0yw8y4_xE5.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/w7u1vGRmXnmIWIvx_tNjiosWC3wtSvr8k.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/ANF0whi7bUGFhFXZ_transcoded-SPbTfs6w64eOP7q5-Performance_%20Module%2011_%20Slide%204.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/18WbKuUVYzArPNRJ_hElIhMKr4UA5jdai.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/SvCrS2LMsWRs4JsF_transcoded-C8pTaZjiDKRhYGI6-Performance_%20Module%2011_%20Slide%205.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/yvpLJvVLQGoryGe0_UzekITq6vmt1I8ud.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/qTXs8WS2blTteYJf_transcoded-Njg9wtIy44GMUSVi-Performance_%20Module%2011_%20Slide%206.mp3" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/iB7BHm3snogcljXD_tD2WRF5M9mPdO1fK.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/oeR_QFJ9Z1nEqCYG_31_cities.jpg" />
+<file href="https://oasisc-maker.github.io/Performance-Management/scormcontent/assets/l_VutedIfNjPAfqs_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
